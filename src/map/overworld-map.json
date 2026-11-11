@@ -1,0 +1,221 @@
+{
+ "tileSize": 16,
+ "screen": {
+  "cols": 16,
+  "rows": 11
+ },
+ "screens": {
+  "across": 4,
+  "down": 4
+ },
+ "width": 64,
+ "height": 44,
+ "start": {
+  "x": 60,
+  "y": 12,
+  "note": "by the mailbox"
+ },
+ "legend": {
+  "A": {
+   "name": "gray shed",
+   "color": "#8B8D94",
+   "solid": true
+  },
+  "B": {
+   "name": "house brick wall",
+   "color": "#8F635D",
+   "solid": true
+  },
+  "D": {
+   "name": "deck boards",
+   "color": "#A49D97",
+   "solid": false
+  },
+  "F": {
+   "name": "privacy fence",
+   "color": "#3A322C",
+   "solid": true
+  },
+  "G": {
+   "name": "lawn tuft",
+   "color": "#5E8A34",
+   "solid": false
+  },
+  "L": {
+   "name": "patio paver",
+   "color": "#C8B59D",
+   "solid": false
+  },
+  "M": {
+   "name": "leaf litter",
+   "color": "#8A7454",
+   "solid": false
+  },
+  "Q": {
+   "name": "hot tub",
+   "color": "#26262A",
+   "solid": true
+  },
+  "R": {
+   "name": "house roof",
+   "color": "#5E5A50",
+   "solid": true
+  },
+  "S": {
+   "name": "small green shed",
+   "color": "#BFC57A",
+   "solid": true
+  },
+  "T": {
+   "name": "tree highlight",
+   "color": "#4F6B3A",
+   "solid": true
+  },
+  "V": {
+   "name": "dungeon shed",
+   "color": "#B4C0AD",
+   "solid": true
+  },
+  "Z": {
+   "name": "garage siding",
+   "color": "#D6C88C",
+   "solid": true
+  },
+  "c": {
+   "name": "driveway",
+   "color": "#B4AD9C",
+   "solid": false
+  },
+  "d": {
+   "name": "deck seam",
+   "color": "#7D746E",
+   "solid": false
+  },
+  "e": {
+   "name": "flowers",
+   "color": "#E0406A",
+   "solid": false
+  },
+  "g": {
+   "name": "lawn",
+   "color": "#7FA040",
+   "solid": false
+  },
+  "h": {
+   "name": "street",
+   "color": "#5A5A5A",
+   "solid": true
+  },
+  "j": {
+   "name": "fire-pit table",
+   "color": "#5A4632",
+   "solid": true
+  },
+  "k": {
+   "name": "dark opening / door",
+   "color": "#1E1E1E",
+   "solid": false
+  },
+  "l": {
+   "name": "patio paver alt",
+   "color": "#B8A388",
+   "solid": false
+  },
+  "n": {
+   "name": "wall fountain",
+   "color": "#8A8A86",
+   "solid": true
+  },
+  "o": {
+   "name": "planter",
+   "color": "#0E5F80",
+   "solid": true
+  },
+  "p": {
+   "name": "white trim / door / mailbox / porch railing",
+   "color": "#F2F0E8",
+   "solid": true
+  },
+  "r": {
+   "name": "roof (garage)",
+   "color": "#5E5A50",
+   "solid": true
+  },
+  "s": {
+   "name": "deck sofa",
+   "color": "#0A4F77",
+   "solid": true
+  },
+  "t": {
+   "name": "tree",
+   "color": "#2F4A2A",
+   "solid": true
+  },
+  "u": {
+   "name": "street lane mark",
+   "color": "#E8E4D8",
+   "solid": true
+  },
+  "w": {
+   "name": "wooden gate",
+   "color": "#8A6A45",
+   "solid": false
+  },
+  "x": {
+   "name": "patio chair",
+   "color": "#3E8E6A",
+   "solid": true
+  },
+  "y": {
+   "name": "sidewalk",
+   "color": "#C9C3B5",
+   "solid": false
+  }
+ },
+ "rows": [
+  "ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttthhh",
+  "tFggGggggttGgGggggggttgGggggGgggggggttggggggggttgGggGggGggggghuh",
+  "tFggttgggTtggGggggggTtgGgggggggttgggTtggggggggTtggggttggGgggghhh",
+  "tFggTtgGgggGggttggGggggggttggggTtggggggggttgGggggggGTtgGggGgghhh",
+  "tFggggggGgggggTtgggggggggTtggggggggggggggTtgGgGggGGGggGggttgghuh",
+  "tFgGggttggggggggggggGgggggggggggggGggggttggggggggggggggGgTtgghhh",
+  "tFggggTtggggttgggggggggggggggggGGttgggGTtggggggGttGggGggggggghhh",
+  "tFgGggggggggTtgggZrrrrrrrrrrrZgggTtGggggggggttGgTtggggggggggghuh",
+  "tFgGgggggggggggggZZZZZZZZZZZZZggggggGggGggggTtggggggggggggGGGhhh",
+  "tFgttgggggggggggGZZZZZZZZZZZZZccccccccccccccccccccccccccccccchhh",
+  "tFgTtggggVVVVVgggZZZZZZZZZZZZZccccccccccccccccccccccccccccccchuh",
+  "tFAAAAAAgVVVVVgggZZZZZZZZZZZZZccccccccccccccccccccccccccccccchhh",
+  "tFAAAAAAgVVVVVgggZZZZZZZZZZZZZccccccccccccccccccccccccccccccphhh",
+  "tFAAAAApgVVVVVgggZZZkkkkkkZZpZgggGgggggggggggggggggyggggggggghuh",
+  "tFAAAAApgVpppVgggglLlLlLlLlLGgFGgggggGggGggggGgggggygggGggggghhh",
+  "tFAAAAAAggGgggMgggLlLlLlLlLlggFggggggggggGgggGGggggygGggggggghhh",
+  "tFAAAAAAggMggggggglLxjjjjxlLggwgggggggggggggggggggGygGggggggghuh",
+  "tFggggggGGgGggggMgLlLlLlLlLlGGwgggggggggGgGgggGggggyggggggggghhh",
+  "tFgGgggggggGMgggGglLlLlLlLlLgGFggggggggggggggGgggggyggggggggghhh",
+  "tFgggggggggGgggMggLlLlLlLlLlggFgGggggggggGGggggGgggygGgggGggghuh",
+  "tFggggggGgodDDdDDdDDdDDdDDdggggBBBBBBBBBBBBBBggggggyggggggggGhhh",
+  "tFgggGgggGDdDDdDDdDDdDssDDdggggBRRRRRRRRRRRRBGggGggyggggggggghhh",
+  "tFGgttGgggDdDDdDDdDDdDDdDDdggyykRRRRRRRRRRRRBDDpgggyGgggggGgghuh",
+  "tFGgTtggggDdDDdDDdDDdDDdDDoggyykRRRRRRRRRRRRBDDpGggyggGgggggghhh",
+  "tFgggggggGDsDDdDDdDDdDDdDDdgGyeBRRRRRRRRRRRRBDDpgggygggttgggghhh",
+  "tFgggttgGgDsDDdDDdDDdDDdDDdggynBRRRRRRRRRRRRBDDpgGgygggttgggghuh",
+  "tFgggTtgggDsDDdDDdDDdDDdDDdggyeBRRRRRRRRRRRRkDDDyyyygggttgGgghhh",
+  "tFgggggGggDsssssssDDdDDdDDdggyyBRRRRRRRRRRRRBDDpgggggGgkggggghhh",
+  "tFgggggGggDdDDdDDdDDdDDdDDoggyykRRRRRRRRRRRRBDDpgggggggggGggghuh",
+  "tFggggggggggggggggGgGSSSSSgQQQykRRRRRRRRRRRRBDDpggGgggggggggghhh",
+  "tFGgttgggGggggggggGggSSSSSGQQQyBRRRRRRRRRRRRBDDpggggggggGgggGhhh",
+  "tFggTtggGggGggGgGggggSppSSgQQQyBRRRRRRRRRRRRBDDpgggggggggggGghuh",
+  "tFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBBBBBBBBBBBBBBgGgggggggggttggghhh",
+  "tFgGggGggGgGggggggggGGGggggggggggggggggggGgggggttgggggggTtggghhh",
+  "tFggggggGggGggGgggggggggggggggggggGggggggggggggTtggggggggGggghuh",
+  "tFgggggGGgGggggggggGgggggggggGgggggggggggggggggggggGggggggGgghhh",
+  "tFggggGgGgggggggggGgggggggggGgggggggggggggggGgggggggGgggggggghhh",
+  "tFggggggggggggttgggGggggggggGgggGgggttggGgggggggggggggggggggghuh",
+  "tFggttgGGgggggTtggggggggGgttgggGggggTtGgttgGggggggggttggggggghhh",
+  "tFGGTtgggGggggggggggttggggTtGggGGgggggggTtggggggggggTtgGggggghhh",
+  "tFgggggggttgggggggggTtgggGGgggggttggggggggGgggggggggGggggGgGghuh",
+  "tFgggggggTtGggggggggggggggggggggTtggggggggggggttggGGGgggGgttghhh",
+  "tFgGGggggggggggggGgggggggGggggggggggggggggggggTtggGgggggggTtGhhh",
+  "tggggggggggggggggggGgggGggggggGgggggggggggggggggggggggggggggghuh"
+ ]
+}
